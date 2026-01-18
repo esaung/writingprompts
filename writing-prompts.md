@@ -102,6 +102,21 @@ A collection of creative writing prompts designed to inspire reflection, creativ
 
 ---
 
+## Developmental Behavior Prompts
+*Prompts designed to encourage reflection on important life skills for ages 11-15*
+
+38. **Responsibility & Accountability:** Describe a time when you made a mistake and had to own up to it. How did you take responsibility? What did you learn about yourself from that experience?
+
+39. **Empathy & Perspective-Taking:** Think of someone you recently disagreed with or didn't understand. Try writing from their point of view — what might they have been feeling or thinking? How does seeing their perspective change how you feel about the situation?
+
+40. **Problem-Solving & Decision-Making:** Write about a difficult choice you had to make on your own (without asking parents or friends first). What were your options? How did you decide? Looking back, would you make the same choice?
+
+41. **Self-Advocacy & Communication:** Describe a time when you needed to speak up for yourself — maybe asking for help, setting a boundary, or expressing what you needed. What made it hard? What happened when you finally spoke up?
+
+42. **Resilience & Growth Mindset:** Write about something you failed at or struggled with. How did you feel at first? What did you do next? How did that challenge help you grow stronger or learn something new about yourself?
+
+---
+
 ## Usage Tips
 
 - Choose prompts that resonate with your current mood or interests
