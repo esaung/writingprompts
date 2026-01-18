@@ -105,15 +105,15 @@ A collection of creative writing prompts designed to inspire reflection, creativ
 ## Developmental Behavior Prompts
 *Prompts designed to encourage reflection on important life skills for ages 11-15*
 
-38. **Responsibility & Accountability:** Describe a time when you made a mistake and had to own up to it. How did you take responsibility? What did you learn about yourself from that experience?
+38. **Responsibility & Accountability:** Write about a time you let your team down — maybe you missed practice, made a critical error in a game, broke something, or didn't follow through on a commitment. How did you handle it? What did you say to your teammates or friends? What would you do differently next time?
 
-39. **Empathy & Perspective-Taking:** Think of someone you recently disagreed with or didn't understand. Try writing from their point of view — what might they have been feeling or thinking? How does seeing their perspective change how you feel about the situation?
+39. **Empathy & Perspective-Taking:** Think about your toughest opponent or rival — in sports, gaming, or competition. Now write from their perspective: What are they thinking during the match? What drives them to compete? How does understanding their mindset change how you see the rivalry?
 
-40. **Problem-Solving & Decision-Making:** Write about a difficult choice you had to make on your own (without asking parents or friends first). What were your options? How did you decide? Looking back, would you make the same choice?
+40. **Problem-Solving & Decision-Making:** You're facing a challenge with no clear right answer — maybe choosing between two teams, deciding whether to quit something you started, or picking a strategy in a critical moment. Walk through your thought process: What factors did you weigh? Did you trust your gut or logic? How did it turn out?
 
-41. **Self-Advocacy & Communication:** Describe a time when you needed to speak up for yourself — maybe asking for help, setting a boundary, or expressing what you needed. What made it hard? What happened when you finally spoke up?
+41. **Self-Advocacy & Communication:** Describe a moment when you had to stand up for yourself or what you believe in — maybe with a coach who benched you, friends pressuring you to do something, or when someone doubted your abilities. What made it scary? How did you find the courage to speak up?
 
-42. **Resilience & Growth Mindset:** Write about something you failed at or struggled with. How did you feel at first? What did you do next? How did that challenge help you grow stronger or learn something new about yourself?
+42. **Resilience & Growth Mindset:** Write about your biggest failure or defeat — losing a championship, getting cut from a team, bombing a performance, or failing at something you worked hard on. How did you react in the moment? What kept you going? How did you come back stronger?
 
 ---
 
